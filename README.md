@@ -1,2 +1,2 @@
 # RL_2019
-Reinforcement Learning All included
+Reinforcement Learning Course from PluralSight
